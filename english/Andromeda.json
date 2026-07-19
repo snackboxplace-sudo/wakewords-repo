@@ -1,0 +1,14 @@
+{
+  "type": "micro",
+  "wake_word": "Andromeda",
+  "author": "Snackbox",
+  "version": 2,
+  "trained_languages": ["en"],
+  "model": "https://githubusercontent.com",
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 10,
+    "feature_step_size": 20,
+    "tensor_arena_size": 45000
+  }
+}
