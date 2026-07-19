@@ -4,7 +4,7 @@
   "author": "Snackbox",
   "version": 2,
   "trained_languages": ["en"],
-  "model": "https://githubusercontent.com",
+  "model": "https://githubusercontent.com/snackboxplace-sudo/wakewords-repo/blob/63968bb4fc380f2b019074a8cc7882456e44857e/english/andromeda.tflite",
   "micro": {
     "probability_cutoff": 0.5,
     "sliding_window_size": 10,
